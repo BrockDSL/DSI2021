@@ -30,10 +30,17 @@ Each 45-minute session is interrupted by a 15-minute break (we encourage you to 
 ## When
 
 - Tuesday May 4, 9:00 - 2:45
-
 - Wednesday May 5, 9:00 - 2:45
+- Thursday May 6, 9:00 - 11:00
 
-- Thrusday May 6, 9:00 - 11:00
+
+
+
+
+<span style="color:orange">As a group </span> 
+<span style="color:red">As a stream</span>
+
+
 
 
 
@@ -43,10 +50,11 @@ Each 45-minute session is interrupted by a 15-minute break (we encourage you to 
 10:00 - 10:45|<span style="color:orange">Options and Streams</span>|<span style="color:red">Work with Stream</span>|<span style="color:orange">Closing Remarks</span>
 11:00 - 11:45|<span style="color:red">Work with Stream and Librarian</span>|<span style="color:red">Work with Stream</span>|
 LUNCH|||
-1:00 - 3:00|<span style="color:red">Work with Stream</span>|<span style="color:red">Work with Stream</span>|
+1:00 - 1:45|<span style="color:red">Work with Stream</span>|<span style="color:red">Work with Stream</span>|
+2:00 - 2:45|<span style="color:red">Work with Stream</span>|<span style="color:red">Work with Stream</span>|
 3:00  - 3:30|<span style="color:orange">End of Day 1 (One positive: one thorn)</span>|<span style="color:orange">End of Day 2(One positive: one thorn)</span> |
 
-<span style="color:orange">As a group </span> | <span style="color:red">As a stream</span>
+
 
 
 
