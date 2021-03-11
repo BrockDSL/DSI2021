@@ -8,7 +8,7 @@ The DSI seeks to train participants in a core set of methodologies and tools tha
 
 By the end of this institute, participants will 
 
-- Demonstrate confidence in their ability to engage with digital scholarship projects by developing a reusable assignment for an upcoming course 
+- Demonstrate confidence in their ability to engage with digital scholarship projects by **developing a reusable assignment** for an upcoming course 
 
 - Identify the hallmarks of digital scholarship/critical elements and  methodological principles that qualifies scholarly work as digital scholarship 
 
@@ -23,7 +23,7 @@ By the end of this institute, participants will
 ## How the Institute will Function
 
 
-Normally, the Institute would meet in-person and take advantage of the newly  updated Digital Scholarship Lab space in the Rankin Family Pavilion. For this iteration of the Institute, programming will occur synchronously over Zoom. As the schedule below shows, there are two types of sessions: <span style="color:orange">group sessions</span>, where each participant and facilitator will meet, and <span style="color:red">stream sessions</span>, where participants will meet only with colleagues interested in the same stream. <span style="color:orange">Group sessions</span> will feature content that is applicable to each stream, while <span style="color:red">Stream sessions</span> will focus on the particularities of the stream’s main methodology. In this way, we hope that participants will be able to benefit from the insight of the larger group, while also develop a specialized cohort within streams. 
+Normally, the Institute would meet in-person and take advantage of the newly  updated Digital Scholarship Lab space in the Rankin Family Pavilion. For this iteration of the Institute, programming will occur synchronously over Zoom / Teams. As the schedule below shows, there are two types of sessions: <span style="color:orange">group sessions</span>, where each participant and facilitator will meet, and <span style="color:red">stream sessions</span>, where participants will meet only with colleagues interested in the same stream. <span style="color:orange">Group sessions</span> will feature content that is applicable to each stream, while <span style="color:red">Stream sessions</span> will focus on the particularities of the stream’s main methodology. In this way, we hope that participants will be able to benefit from the insight of the larger group, while also develop a specialized cohort within streams. 
 
 Each 45-minute session is interrupted by a 15-minute break (we encourage you to take full advantage of these breaks). **Please know that** we recognize that participating in a virtual 2.5-day Institute brings with it is own challenges, in addition to the added pressures of working from home. You are not required to be “on” the entire time. We ask that you try to attend and participate during <span style="color:orange">group sessions</span>. During <span style="color:red">Stream sessions</span>, facilitators and other subject experts will be available for consultation. If you face challenges, or want to bounce ideas off others, <span style="color:red">Stream sessions</span> are a perfect opportunity to iron out your chosen project. 
 
@@ -37,8 +37,7 @@ Each 45-minute session is interrupted by a 15-minute break (we encourage you to 
 
 
 
-<span style="color:orange">As a group </span> 
-<span style="color:red">As a stream</span>
+<span style="color:orange">As a group </span>  | <span style="color:red">As a stream</span>
 
 
 
@@ -82,6 +81,10 @@ Digital exhibits are an excellent way to share and display metadata rich materia
 
 
 ## Interested?
+
+We are asking pariticipants interested in attending bring with them an idea of what content the would like to work on for their project. Participants will be invited to a SAKAI site with some prepatory material ahead of the first scheduled day of the session.
+
+This workshop is open to any instructor in the Brock Community.
 
 Please sign up on the [CPI registration system]()
 
