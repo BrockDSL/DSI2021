@@ -63,7 +63,7 @@ DSI2021 will feature three content streams. While participants will be introduce
 
 
 ### Mapping
-<iframe height="420" width="640" allowfullscreen frameborder=0 src="https://echo360.ca/media/25f3962d-0981-4030-ab32-b75d4973c603/public?autoplay=false&automute=false"></iframe>
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE "Video Title")
 
 Geographic Information Systems (GIS) are used to analyze, display and communicate data that contains a geospatial component. This stream will present two major GIS inspired tools: ArcGIS Online, a lightweight internet-based application that allows you to create interactive maps and [Esri StoryMaps](https://storymaps.arcgis.com/), which combines interactive maps with narrative text, graphic images and other multimedia content to portray your story to the world. Attendees will gain hands-on experience with these two platforms with the end goal of creating a compelling interactive story map. For an example of this technology in action please have a look at the 2020 Esri scholarship winning story map [If Coastlines could Talk](https://arcg.is/1binHX).
 
