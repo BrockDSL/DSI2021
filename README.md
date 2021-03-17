@@ -51,7 +51,7 @@ Each 45-minute session is interrupted by a 15-minute break (we encourage you to 
 LUNCH|||
 1:00 - 1:45|<span style="color:red">Work with Stream</span>|<span style="color:red">Work with Stream</span>|
 2:00 - 2:45|<span style="color:red">Work with Stream</span>|<span style="color:red">Work with Stream</span>|
-3:00  - 3:30|<span style="color:orange">End of Day 1 (One positive: one thorn)</span>|<span style="color:orange">End of Day 2(One positive: one thorn)</span> |
+3:00  - 3:30|<span style="color:orange">End of Day 1 (One positive: one thorn)</span>|<span style="color:orange">End of Day 2 (One positive: one thorn)</span> |
 
 
 
@@ -63,11 +63,14 @@ DSI2021 will feature three content streams. While participants will be introduce
 
 
 ### Mapping
-[![Mapping Video](https://i.imgur.com/KdARSu3.gif)](https://echo360.ca/media/25f3962d-0981-4030-ab32-b75d4973c603/public)
+
+[![DSI201 Content Stream: Mapping](http://img.youtube.com/vi/dLrod4l6lJI/0.jpg)](http://www.youtube.com/watch?v=dLrod4l6lJI "DSI2021 Content Stream: Mapping")
 
 Geographic Information Systems (GIS) are used to analyze, display and communicate data that contains a geospatial component. This stream will present two major GIS inspired tools: ArcGIS Online, a lightweight internet-based application that allows you to create interactive maps and [Esri StoryMaps](https://storymaps.arcgis.com/), which combines interactive maps with narrative text, graphic images and other multimedia content to portray your story to the world. Attendees will gain hands-on experience with these two platforms with the end goal of creating a compelling interactive story map. For an example of this technology in action please have a look at the 2020 Esri scholarship winning story map [If Coastlines could Talk](https://arcg.is/1binHX).
 
 ### Annotation
+
+[![DSI201 Content Stream: Annotation](http://img.youtube.com/vi/lW1nNYW-2Ds/0.jpg)](http://www.youtube.com/watch?v=lW1nNYW-2Ds "DSI201 Content Stream: Annotation")
 
 Close reading is an analysis method that helps facilitate an in-depth understanding of a piece of text. The difficulty arises when trying to conduct a close reading exercise in a classroom environment. Attendees will explore [Hypothes.is](https://web.hypothes.is) which is a web-based tool that allows a group to collaboratively read through and annotate a document in real time. Simply by providing a link or uploading a PDF a group can create an environment that allows for an engaging, and rich platform to pour over a body of text. The platform can also be natively embedded in the LMS making for a seamless integration with other course work. See the power of Hypothes.is in action with this marked up rendition of [The Rime of the Ancient Mariner](https://via.hypothes.is/https://www.bartleby.com/101/549.html). 
 
