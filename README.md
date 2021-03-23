@@ -4,7 +4,7 @@
 
 ## Objectives
 
-The DSI seeks to train participants in a core set of methodologies and tools that provide both a knowledge base and the confidence to create assignments that reflect the changing nature of teaching and learning in higher-ed.
+The DSI is a three day, immersive, and interactive workshop that focuses on a core set of methodologies and tools that provide both a knowledge base and the confidence to create assignments that reflect the changing nature of teaching and learning in higher-ed.
 
 By the end of this institute, participants will
 
@@ -23,9 +23,9 @@ By the end of this institute, participants will
 ## How the Institute will Function
 
 
-Normally, the Institute would meet in-person and take advantage of the newly  updated Digital Scholarship Lab space in the Rankin Family Pavilion. For this iteration of the Institute, programming will occur synchronously over Zoom / Teams. As the schedule below shows, there are two types of sessions: <span style="color:orange">group sessions</span>, where each participant and facilitator will meet, and <span style="color:red">stream sessions</span>, where participants will meet only with colleagues interested in the same stream. <span style="color:orange">Group sessions</span> will feature content that is applicable to each stream, while <span style="color:red">Stream sessions</span> will focus on the particularities of the stream’s main methodology. In this way, we hope that participants will be able to benefit from the insight of the larger group, while also develop a specialized cohort within streams.
+Normally, the Institute would meet in-person and take advantage of the newly  updated Digital Scholarship Lab space in the Rankin Family Pavilion. For this iteration of the Institute, programming will occur synchronously over Zoom / Teams. As the schedule below shows, there are two types of sessions: <span style="color:orange">**group sessions**</span>, where each participant and facilitator will meet, and <span style="color:red">**stream sessions**</span>, where participants will meet only with colleagues interested in the same stream. <span style="color:orange">**Group sessions**</span> will feature content that is applicable to each stream, while <span style="color:red">**Stream sessions**</span> will focus on the particularities of the stream’s main methodology. In this way, we hope that participants will be able to benefit from the insight of the larger group, while also develop a specialized cohort within streams.
 
-Each 45-minute session is interrupted by a 15-minute break (we encourage you to take full advantage of these breaks). **Please know that** we recognize that participating in a virtual 2.5-day Institute brings with it is own challenges, in addition to the added pressures of working from home. You are not required to be “on” the entire time. We ask that you try to attend and participate during <span style="color:orange">group sessions</span>. During <span style="color:red">Stream sessions</span>, facilitators and other subject experts will be available for consultation. If you face challenges, or want to bounce ideas off others, <span style="color:red">Stream sessions</span> are a perfect opportunity to iron out your chosen project.
+Each 45-minute session is interrupted by a 15-minute break (we encourage you to take full advantage of these breaks). **Please know that** we recognize that participating in a virtual 2.5-day Institute brings with it is own challenges, in addition to the added pressures of working from home. You are not required to be “on” the entire time. We ask that you try to attend and participate during <span style="color:orange">**group sessions**</span>. During <span style="color:red">**Stream sessions**</span>, facilitators and other subject experts will be available for consultation. If you face challenges, or want to bounce ideas off others, <span style="color:red">**Stream sessions**</span> are a perfect opportunity to iron out your chosen project.
 
 ## When
 
@@ -37,7 +37,7 @@ Each 45-minute session is interrupted by a 15-minute break (we encourage you to 
 
 
 
-<span style="color:orange">As a group </span>  | <span style="color:red">As a stream</span>
+<span style="color:orange">**As a group** </span>  | <span style="color:red">**As a stream**</span>
 
 
 
@@ -51,7 +51,7 @@ Each 45-minute session is interrupted by a 15-minute break (we encourage you to 
 LUNCH|||
 1:00 - 1:45|<span style="color:red">Work with Stream</span>|<span style="color:red">Work with Stream</span>|
 2:00 - 2:45|<span style="color:red">Work with Stream</span>|<span style="color:red">Work with Stream</span>|
-3:00  - 3:30|<span style="color:orange">End of Day 1 (One positive: one thorn)</span>|<span style="color:orange">End of Day 2(One positive: one thorn)</span> |
+3:00  - 3:30|<span style="color:orange">End of Day 1 (One positive: one thorn)</span>|<span style="color:orange">End of Day 2 (One positive: one thorn)</span> |
 
 
 
@@ -87,16 +87,15 @@ Digital exhibits are an excellent way to share and display metadata rich materia
 
 ## Interested?
 
-We are asking pariticipants interested in attending bring with them an idea of what content the would like to work on for their project. Participants will be invited to a SAKAI site with some prepatory material ahead of the first scheduled day of the session.
+We are asking participants interested in attending bring with them an idea of what content the would like to work on for their project. Participants will be invited to a SAKAI site with some preparatory material ahead of the first scheduled day of the session.
 
 This workshop is open to any instructor in the Brock Community.
 
-Please sign up on the [CPI registration system]()
+Please sign up [here](https://cpi.brocku.ca/events/node/1487)
 
+**This workshop is brought to you by the Brock University Digital Scholarship Lab and Brock University Centre for Pedagogicial Innovation.  For more information on the DSL check out the website at [www.brocku.ca/library/dsl/](https://brocku.ca/library/dsl/) or you can e-mail us at dsl@brocku.ca. For more information about CPI check out the website at: [https://brocku.ca/pedagogical-innovation/](https://brocku.ca/pedagogical-innovation/) **  
 
-**This workshop is brought to you by the Brock University Digital Scholarship Lab.  For more information on the DSL check out our website at [www.brocku.ca/library/dsl/](https://brocku.ca/library/dsl/) or you can e-mail us at dsl@brocku.ca.**  
-
-You can also find us on:  
+You can also find the DSL on:  
 [Facebook](https://www.facebook.com/Brock-University-Digital-Scholarship-Lab-349407235866792/)  
 [Twitter](https://twitter.com/brock_dsl)  
 [Instagram](https://www.instagram.com/brock_dsl/?hl=en)  
