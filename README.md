@@ -43,7 +43,7 @@ Each 45-minute session is interrupted by a 15-minute break (we encourage you to 
 
 
 
-|DAY 1|DAY 2|DAY3
+Time|DAY 1|DAY 2|DAY3
 ---|---|---|---
 9:00 - 9:45|<span style="color:orange">Welcome & Setting the Stage</span>|<span style="color:orange">Group Discussion: On Digital/Data Fluency</span>|<span style="color:orange">Presentations and feedback</span>
 10:00 - 10:45|<span style="color:orange">Options and Streams</span>|<span style="color:red">Work with Stream</span>|<span style="color:orange">Closing Remarks</span>
@@ -57,7 +57,7 @@ LUNCH|||
 
 
 
-## Content Steams
+## Content Streams
 
 DSI2021 will feature three content streams. While participants will be introduced to all three streams during group sessions and presentations, they will choose **one** stream to work within for the duration of the institute. Each stream will be supported by a lead facilitator.
 
