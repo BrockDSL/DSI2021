@@ -80,7 +80,7 @@ Close reading is an analysis method that helps facilitate an in-depth understand
 
 <iframe width="665" height="374" src="https://www.youtube.com/embed/_MU5uQaIDPk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Digital exhibits are an excellent way to share and display metadata rich materials digital objects. They are particularly useful in bringing to life digitized material to reach a wider audience. Attendees will dig into the digital exhibit platform [CollectionBuilder](https://collectionbuilder.github.io/). This platform is totally web-based and easy to work with. The only requirement is the collection of digital objects that will be showcased. For an example of a fully developed CollectionBuilder site please consult [White Pine - King of Many Waters Collection](https://www.lib.uidaho.edu/digital/whitepine/).
+Digital exhibits are an excellent way to share and display metadata rich materials digital objects. They are particularly useful in bringing to life digitized material to reach a wider audience. Attendees will dig into the digital exhibit platform [CollectionBuilder](https://collectionbuilder.github.io/). This platform is totally web-based and easy to work with. The only requirement is the collection of digital objects that will be showcased. For an example of a fully developed CollectionBuilder site please consult [Geodata Listing](https://brockdsl.github.io/geodata-listing/).
 
 
 
