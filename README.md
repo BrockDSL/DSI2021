@@ -87,7 +87,7 @@ Digital exhibits are an excellent way to share and display metadata rich materia
 
 ## Interested?
 
-We are asking participants interested in attending bring with them an idea of what content the would like to work on for their project. Participants will be invited to a SAKAI site with some preparatory material ahead of the first scheduled day of the session.
+We are asking participants interested in attending bring with them an idea of what content they would like to work on for their project. Participants will be invited to a SAKAI site with some preparatory material ahead of the first scheduled day of the session.
 
 This workshop is open to any instructor in the Brock Community.
 
