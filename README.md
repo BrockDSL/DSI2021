@@ -1,6 +1,13 @@
 # Digital Scholarship Institute 2021
 
+## Recap
 
+The 2021 iteration of DSI was successfully completed. Information below is retained to provide information for those interested in attending future events. 
+
+Instructional material for the three steams can be found in the following locations:
+- [Mapping Stream](https://brockdsl.github.io/LauraSecordStoryMap/)
+- [Annotation Stream](https://brockdsl.github.io/DSI2021_Annotation_Stream/)
+- [Exhibits Stream](https://brockdsl.github.io/Collection_Builder_Site_Building_Guide/)
 
 ## Objectives
 
